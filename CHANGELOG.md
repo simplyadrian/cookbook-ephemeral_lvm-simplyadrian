@@ -1,11 +1,11 @@
-ephemeral_lvm-nativex CHANGELOG
+ephemeral_lvm-simplyadrian CHANGELOG
 ===============================
 
-This file is used to list changes made in each version of the ephemeral_lvm-nativex cookbook.
+This file is used to list changes made in each version of the ephemeral_lvm-simplyadrian cookbook.
 
 0.1.0
 -----
-- [Derek Bromenshenkel] - Initial release of ephemeral_lvm-nativex
+- [Derek Bromenshenkel] - Initial release of ephemeral_lvm-simplyadrian
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.

@@ -1,8 +1,8 @@
 #
-# Cookbook Name:: ephemeral_lvm-nativex
+# Cookbook Name:: ephemeral_lvm-simplyadrian
 # Recipe:: default
 #
-# Copyright 2014, NativeX
+# Copyright 2014, simplyadrian
 #
 # All rights reserved - Do Not Redistribute
 # Conditionally includes the xfs default recipe to install the XFS filesystem, if that is the chosen filesystem for the ephemeral_lvm cookbook.
